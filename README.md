@@ -1,2 +1,2 @@
 # TicTacToe
-Network implementation of tic-tac-toe
+-Network implementation of tic-tac-toe
